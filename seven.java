@@ -7,6 +7,7 @@ class sample
 void disp(int a, int b)
 {
 System.out.println(a+b);
+System.out.println("Hello GitHub!!!");
 }
 }
 class demo extends sample
